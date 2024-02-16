@@ -1,4 +1,4 @@
-### Sembakuy: Basic Food Price Monitoring PlatformSembakuy: Basic Food Price Monitoring Platform
+# Sembakuy: Basic Food Price Monitoring PlatformSembakuy: Basic Food Price Monitoring Platform
 
 Associated with IPB UniversityAssociated with IPB University
 This project is an assignment from a combination of Web-Based Application Development and Geographic Information Systems courses.
